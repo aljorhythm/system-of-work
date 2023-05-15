@@ -1,5 +1,5 @@
 
-Url: https://github.com/aljorhythm/system-of-work
+git-repo https://github.com/aljorhythm/system-of-work
 
 # Set up
 
